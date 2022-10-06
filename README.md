@@ -27,3 +27,4 @@ FB API 使用的變數：
 ## DEMO
 
 以 `疾病管制署 - 1922防疫達人`的[此文章](https://www.facebook.com/TWCDC/posts/pfbid0tqufrb9h2BUZyPb7LwF2tBwMSt4q3UAwawmCPFUxW1mWgbsVC6DsKKhRHUSYLK5Al) 為範例之產生部分結果如下圖:
+![demo](https://user-images.githubusercontent.com/29170077/194212147-adc9f465-2813-41c2-b754-850cc4040fa4.png)
